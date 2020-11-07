@@ -2,9 +2,9 @@ title: Enterprize Training Testing Site
 author: Thomas Rose
 email: thomaswrose@gmail.com
 description: > # This is a test site for an online Saas product user training site
-
+Theme: minima
 ### social links
 github_username:  thomaswrose
 
 show_excerpts: true
-Theme: minima
+
